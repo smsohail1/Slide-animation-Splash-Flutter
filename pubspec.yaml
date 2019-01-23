@@ -1,0 +1,14 @@
+name: flutter_ui_splash_screen
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  page_transition: '^1.0.0'
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/flutterwithlogo.png
